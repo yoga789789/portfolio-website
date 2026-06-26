@@ -551,16 +551,18 @@ function App() {
 
         <div className="space-y-6">
           {[
+                        {
+              school: "Purwadhika Digital Technology School",
+              degree: "Data Science & Machine Learning",
+              year: "2025 – 2026",
+            },
+            
             {
               school: "Institut Teknologi Bandung",
               degree: "Master of Business Administration (MBA)",
               year: "2023 – 2025",
             },
-            {
-              school: "Purwadhika Digital Technology School",
-              degree: "Data Science & Machine Learning",
-              year: "2025 – 2026",
-            },
+
             {
               school: "Universitas Pendidikan Indonesia",
               degree: "Bachelor Degree",
