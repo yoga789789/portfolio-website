@@ -59,7 +59,7 @@ function App() {
       result: "Interactive Tableau Dashboard",
       tech: "Python • Tableau • LRFM",
       link: "https://github.com/yoga789789/Customer-Segmentation-Analysis-using-LRFM-Marketing-Campaign-Data",
-      demo: "https://public.tableau.com/authoring/SupermarketCustomerSegmentation_17823756674590/Dashboard1#1",
+      demo: "https://public.tableau.com/app/profile/yoga.brahma/viz/SupermarketCustomerSegmentation_17823756674590/Dashboard1",
     },
     {
       title: "Customer Churn Prediction",
@@ -71,7 +71,7 @@ function App() {
       result: "XGBoost Classification",
       tech: "Python • XGBoost",
       link: "https://github.com/yoga789789/E-Commerce-Customer-Churn-Prediction",
-      demo: "https://public.tableau.com/authoring/SupermarketCustomerSegmentation_17823756674590/Dashboard1#1",
+      demo: "https://public.tableau.com/app/profile/yoga.brahma/viz/CustomerChurnRiskAnalysis_17726350537060/Dashboard12",
     },
   ];
 
